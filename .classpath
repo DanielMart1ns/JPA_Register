@@ -15,7 +15,11 @@
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/classmate-1.5.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/FastInfoset-1.2.15.jar"/>
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/hibernate-commons-annotations-5.1.2.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/hibernate-core-5.6.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/hibernate-core-5.6.5.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/istack-commons-runtime-3.0.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/jandex-2.4.2.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/danie/OneDrive/Área de Trabalho/Codigos/hibernate-release-5.6.5.Final/lib/required/javax.activation-api-1.2.0.jar"/>

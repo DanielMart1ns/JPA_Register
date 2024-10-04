@@ -1,5 +1,8 @@
 package br.com.daniel.dao;
 
-public interface IProductDAO {
+import br.com.daniel.domain.Product;
 
+public interface IProductDAO {
+	
+	public Product register(Product prod);
 }
